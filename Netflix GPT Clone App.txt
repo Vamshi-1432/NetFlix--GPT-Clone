@@ -1,0 +1,6 @@
+1.Create Netflix GPT clone app
+2.Create new repository in GitHub
+3.Now run the below command in terminal of VS code and then refresh the GitHub page to look at changes made in GitHub.
+i. git remote add origin https://github.com/Vamshi-1432/NetFlix--GPT-Clone.git
+ii. git branch -M main
+iii. git push -u origin main
